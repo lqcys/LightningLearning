@@ -1,0 +1,3092 @@
+[
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app",
+        {
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1553847165668,
+            "changeTime": 1553847165784,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main",
+        {
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1553847165668,
+            "changeTime": 1553847166649,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default",
+        {
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1553848519675,
+            "changeTime": 1553848519675,
+            "contentHash": "6d5280f0667234b2dd809796dfed58f45388b3a0",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1553847165669,
+            "changeTime": 1553847166819,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\flexipages",
+        {
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\flexipages",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1553848520127,
+            "changeTime": 1553848520127,
+            "contentHash": "f8d375164b1f8a33bc5298c86a4d0b62334fe0bb",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\flexipages\\Account.flexipage-meta.xml",
+        {
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\flexipages\\Account.flexipage-meta.xml",
+            "isDirectory": false,
+            "size": 6743,
+            "modifiedTime": 1553848520141,
+            "changeTime": 1553848520398,
+            "contentHash": "04eac8e91088ec680bd9b4c154a55fb9231cc80b",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\flexipages\\Bike_Card.flexipage-meta.xml",
+        {
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\flexipages\\Bike_Card.flexipage-meta.xml",
+            "isDirectory": false,
+            "size": 475,
+            "modifiedTime": 1553848370268,
+            "changeTime": 1553848370419,
+            "contentHash": "090838b378e7db14665306d47070863eb4dc98d6",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc",
+        {
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1553847183403,
+            "changeTime": 1553847183403,
+            "contentHash": "a973ac1b5be0e216b2a2db1b82ae5ba97f4086f4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects",
+        {
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1553848519676,
+            "changeTime": 1553848519746,
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Account",
+        {
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Account",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1553848519692,
+            "changeTime": 1553848519813,
+            "contentHash": "82a5078765c2f1122397f2a823a7250f80f7bbdb",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Account\\Account.object-meta.xml",
+        {
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Account\\Account.object-meta.xml",
+            "isDirectory": false,
+            "size": 3909,
+            "modifiedTime": 1553848519692,
+            "changeTime": 1553848519914,
+            "contentHash": "4109a6d201ba8fe7ad49f80a3d59c1a24f256492",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Account\\fields",
+        {
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Account\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1553848520041,
+            "changeTime": 1553848520041,
+            "contentHash": "fc084546f56879d9a97e6e4367f2abae2a1035f3",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Account\\fields\\AccountNumber.field-meta.xml",
+        {
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Account\\fields\\AccountNumber.field-meta.xml",
+            "isDirectory": false,
+            "size": 202,
+            "modifiedTime": 1553848519699,
+            "changeTime": 1553848520074,
+            "contentHash": "2485668a3437d5add365adc6395699585c0ec6d0",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Account\\fields\\AccountSource.field-meta.xml",
+        {
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Account\\fields\\AccountSource.field-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1553848519706,
+            "changeTime": 1553848520603,
+            "contentHash": "1dee20ac58a40482934d035192fe7a98db6d9a81",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Account\\fields\\AnnualRevenue.field-meta.xml",
+        {
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Account\\fields\\AnnualRevenue.field-meta.xml",
+            "isDirectory": false,
+            "size": 202,
+            "modifiedTime": 1553848519713,
+            "changeTime": 1553848520677,
+            "contentHash": "428d667e4a7e884d30e9f297f975d2a6484dc2cd",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Account\\fields\\BillingAddress.field-meta.xml",
+        {
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Account\\fields\\BillingAddress.field-meta.xml",
+            "isDirectory": false,
+            "size": 203,
+            "modifiedTime": 1553848519725,
+            "changeTime": 1553848520763,
+            "contentHash": "780b69fd147e2be6a8e2388d7c4336e215f67586",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Account\\fields\\CleanStatus.field-meta.xml",
+        {
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Account\\fields\\CleanStatus.field-meta.xml",
+            "isDirectory": false,
+            "size": 200,
+            "modifiedTime": 1553848519745,
+            "changeTime": 1553848520919,
+            "contentHash": "b2a6d6cc0822db9616bc68852769a9ce9e31b8cb",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Account\\fields\\DandbCompanyId.field-meta.xml",
+        {
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Account\\fields\\DandbCompanyId.field-meta.xml",
+            "isDirectory": false,
+            "size": 227,
+            "modifiedTime": 1553848519755,
+            "changeTime": 1553848521069,
+            "contentHash": "c36e183fef5796b39d7f2abad313817f99c74127",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Account\\fields\\Description.field-meta.xml",
+        {
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Account\\fields\\Description.field-meta.xml",
+            "isDirectory": false,
+            "size": 200,
+            "modifiedTime": 1553848519766,
+            "changeTime": 1553848521246,
+            "contentHash": "57d79a023b3596766f7369502cb5e2bac6a5cb92",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Account\\fields\\DunsNumber.field-meta.xml",
+        {
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Account\\fields\\DunsNumber.field-meta.xml",
+            "isDirectory": false,
+            "size": 199,
+            "modifiedTime": 1553848519779,
+            "changeTime": 1553848521366,
+            "contentHash": "b9eafa97bfa4f532b3645d306161068341cd99dd",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Account\\fields\\Fax.field-meta.xml",
+        {
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Account\\fields\\Fax.field-meta.xml",
+            "isDirectory": false,
+            "size": 192,
+            "modifiedTime": 1553848519788,
+            "changeTime": 1553848521454,
+            "contentHash": "7531bb94080187ff2cb7ab86658d706842b99d1f",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Account\\fields\\Industry.field-meta.xml",
+        {
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Account\\fields\\Industry.field-meta.xml",
+            "isDirectory": false,
+            "size": 223,
+            "modifiedTime": 1553848519796,
+            "changeTime": 1553848521554,
+            "contentHash": "6f0a5236c2130d964cc6b9654fd5f11e512dca47",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Account\\fields\\Jigsaw.field-meta.xml",
+        {
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Account\\fields\\Jigsaw.field-meta.xml",
+            "isDirectory": false,
+            "size": 195,
+            "modifiedTime": 1553848519808,
+            "changeTime": 1553848521657,
+            "contentHash": "4ada28399de9ac97f1dc447fb1aaa8b887d11974",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Account\\fields\\NaicsCode.field-meta.xml",
+        {
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Account\\fields\\NaicsCode.field-meta.xml",
+            "isDirectory": false,
+            "size": 198,
+            "modifiedTime": 1553848519815,
+            "changeTime": 1553848521775,
+            "contentHash": "1cf643f5c1633de90169cdb7628f965ac9d927f3",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Account\\fields\\NaicsDesc.field-meta.xml",
+        {
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Account\\fields\\NaicsDesc.field-meta.xml",
+            "isDirectory": false,
+            "size": 198,
+            "modifiedTime": 1553848519827,
+            "changeTime": 1553848521867,
+            "contentHash": "5f0f4a91707a74fee313ea9dbc09659724dfd2f0",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Account\\fields\\Name.field-meta.xml",
+        {
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Account\\fields\\Name.field-meta.xml",
+            "isDirectory": false,
+            "size": 192,
+            "modifiedTime": 1553848519836,
+            "changeTime": 1553848521955,
+            "contentHash": "68769f37d93e5a8c8bc5ad8c2581f0f06ddca5f9",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Account\\fields\\NumberOfEmployees.field-meta.xml",
+        {
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Account\\fields\\NumberOfEmployees.field-meta.xml",
+            "isDirectory": false,
+            "size": 206,
+            "modifiedTime": 1553848519848,
+            "changeTime": 1553848522042,
+            "contentHash": "9d2f6c78b600962d19202740171268557046a498",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Account\\fields\\OperatingHoursId.field-meta.xml",
+        {
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Account\\fields\\OperatingHoursId.field-meta.xml",
+            "isDirectory": false,
+            "size": 229,
+            "modifiedTime": 1553848519862,
+            "changeTime": 1553848522121,
+            "contentHash": "e05e34427505b15fb131b564768c9199ddf39c9e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Account\\fields\\OwnerId.field-meta.xml",
+        {
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Account\\fields\\OwnerId.field-meta.xml",
+            "isDirectory": false,
+            "size": 219,
+            "modifiedTime": 1553848519880,
+            "changeTime": 1553848522187,
+            "contentHash": "52c2c64fa2e6525fc461c88e9c37849e89259798",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Account\\fields\\Ownership.field-meta.xml",
+        {
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Account\\fields\\Ownership.field-meta.xml",
+            "isDirectory": false,
+            "size": 224,
+            "modifiedTime": 1553848519907,
+            "changeTime": 1553848522251,
+            "contentHash": "d84c9b729263e5159ea9a88550f4941bde5aa50e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Account\\fields\\ParentId.field-meta.xml",
+        {
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Account\\fields\\ParentId.field-meta.xml",
+            "isDirectory": false,
+            "size": 224,
+            "modifiedTime": 1553848519916,
+            "changeTime": 1553848522312,
+            "contentHash": "a189aa9e1c94d29eb1f90c9544bfbd668be25cff",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Account\\fields\\Phone.field-meta.xml",
+        {
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Account\\fields\\Phone.field-meta.xml",
+            "isDirectory": false,
+            "size": 194,
+            "modifiedTime": 1553848519934,
+            "changeTime": 1553848522378,
+            "contentHash": "d58ccb85259d8a88abf129f4ea89ea8304963487",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Account\\fields\\Rating.field-meta.xml",
+        {
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Account\\fields\\Rating.field-meta.xml",
+            "isDirectory": false,
+            "size": 221,
+            "modifiedTime": 1553848519945,
+            "changeTime": 1553848522437,
+            "contentHash": "a8224eb175152b9deed680b818cbffd218dd5e3f",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Account\\fields\\ShippingAddress.field-meta.xml",
+        {
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Account\\fields\\ShippingAddress.field-meta.xml",
+            "isDirectory": false,
+            "size": 204,
+            "modifiedTime": 1553848519958,
+            "changeTime": 1553848522494,
+            "contentHash": "c30026606731cd625b5d0b4e8e529a2418ef1ee6",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Account\\fields\\Sic.field-meta.xml",
+        {
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Account\\fields\\Sic.field-meta.xml",
+            "isDirectory": false,
+            "size": 192,
+            "modifiedTime": 1553848519967,
+            "changeTime": 1553848522570,
+            "contentHash": "33262a22c31dbefac748023c3a6c018d743d3161",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Account\\fields\\SicDesc.field-meta.xml",
+        {
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Account\\fields\\SicDesc.field-meta.xml",
+            "isDirectory": false,
+            "size": 196,
+            "modifiedTime": 1553848519977,
+            "changeTime": 1553848522637,
+            "contentHash": "bc19f903ec1384e12d7dd7bc9ffa88580a091422",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Account\\fields\\Site.field-meta.xml",
+        {
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Account\\fields\\Site.field-meta.xml",
+            "isDirectory": false,
+            "size": 193,
+            "modifiedTime": 1553848519987,
+            "changeTime": 1553848522705,
+            "contentHash": "0f2240d03c79c58a0992338cd2a62f8aa201a0a7",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Account\\fields\\TickerSymbol.field-meta.xml",
+        {
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Account\\fields\\TickerSymbol.field-meta.xml",
+            "isDirectory": false,
+            "size": 201,
+            "modifiedTime": 1553848519995,
+            "changeTime": 1553848522775,
+            "contentHash": "9d08b4f2d44e5bd6161a034a999f2fd3f8179f49",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Account\\fields\\Tradestyle.field-meta.xml",
+        {
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Account\\fields\\Tradestyle.field-meta.xml",
+            "isDirectory": false,
+            "size": 199,
+            "modifiedTime": 1553848520014,
+            "changeTime": 1553848522843,
+            "contentHash": "61dbe3cf77a2129e24ff09777f38f47e6ccb1297",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Account\\fields\\Type.field-meta.xml",
+        {
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Account\\fields\\Type.field-meta.xml",
+            "isDirectory": false,
+            "size": 219,
+            "modifiedTime": 1553848520026,
+            "changeTime": 1553848522908,
+            "contentHash": "3467b15d43e2f23e3287cad8cd0622c58b3fdc61",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Account\\fields\\Website.field-meta.xml",
+        {
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Account\\fields\\Website.field-meta.xml",
+            "isDirectory": false,
+            "size": 196,
+            "modifiedTime": 1553848520040,
+            "changeTime": 1553848522985,
+            "contentHash": "38590f00b03c4be8e4116dff68bdeaf0d829bfea",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Account\\fields\\YearStarted.field-meta.xml",
+        {
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Account\\fields\\YearStarted.field-meta.xml",
+            "isDirectory": false,
+            "size": 200,
+            "modifiedTime": 1553848520050,
+            "changeTime": 1553848523046,
+            "contentHash": "797d4a2003a4dc2b7d0b5a3114a8afef7440ccfb",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\profiles",
+        {
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1553848370393,
+            "changeTime": 1553848370805,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "size": 24988,
+            "modifiedTime": 1553848370407,
+            "changeTime": 1553848371062,
+            "contentHash": "144394717fe30085fa96b3009226acf29d71e23e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 9510,
+            "modifiedTime": 1553848370339,
+            "changeTime": 1553848370930,
+            "contentHash": "f5aa66e43f4fd3a552bef0b9a38b39621e2dfe59",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 9510,
+            "modifiedTime": 1553848370317,
+            "changeTime": 1553848370866,
+            "contentHash": "f5aa66e43f4fd3a552bef0b9a38b39621e2dfe59",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 9848,
+            "modifiedTime": 1553848370357,
+            "changeTime": 1553848370979,
+            "contentHash": "12b62b50f05fa4bd4c9ef49a4f4f280b97a5f81f",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\tabs",
+        {
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1553848370283,
+            "changeTime": 1553848370495,
+            "contentHash": "361a6a0b0f85b9da32597211e0c75e6b2a9dc1f0",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\tabs\\Bike_Card.tab-meta.xml",
+        {
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\tabs\\Bike_Card.tab-meta.xml",
+            "isDirectory": false,
+            "size": 314,
+            "modifiedTime": 1553848370288,
+            "changeTime": 1553848370570,
+            "contentHash": "0a4c1008796596428a63c92faf75a935890429c5",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce",
+        {
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1553847176497,
+            "changeTime": 1553847176497,
+            "contentHash": "829e604d4e7d5aae25f04d899b0bc5eccc598817",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\test",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\test",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1553850986653,
+            "changeTime": 1553850999222,
+            "contentHash": "8ce89a661e690897242aa706fb7526552d69e1cf"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\test\\jest-mocks",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\test\\jest-mocks",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1553850986661,
+            "changeTime": 1553850999247,
+            "contentHash": "71f4977891207e277baf83cc871156a93c7214f3"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\test\\jest-mocks\\lightning",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\test\\jest-mocks\\lightning",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1553850986680,
+            "changeTime": 1553850999271,
+            "contentHash": "ecef6f23ca981542c8014e2018d3f21fc4e4e9ab"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\applications",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\applications",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1553850980628,
+            "changeTime": 1553850980660,
+            "contentHash": "7c74398eaa101ce436c4a26ff56eb3c56da6833a"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\classes",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1553850981211,
+            "changeTime": 1553850981744,
+            "contentHash": "a47f0b6cf12f86700ce9cda808a5c1922f3c7383"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\contentassets",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\contentassets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1553850981302,
+            "changeTime": 1553850983333,
+            "contentHash": "5b4202c3ad77adcad76c70f41ea68bc3acec7137"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\layouts",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1553850981641,
+            "changeTime": 1553850983986,
+            "contentHash": "a6ce94f50e851208346cdab9292a420547e92cab"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\permissionsets",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\permissionsets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1553850986269,
+            "changeTime": 1553850998684,
+            "contentHash": "be9e79f4722c3692caaefd821edc0566f014617f"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\staticresources",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\staticresources",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1553850986343,
+            "changeTime": 1553850998761,
+            "contentHash": "31b41dbf756451cc88999716a4fa03c010c8ad53"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\staticresources\\bike_assets",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\staticresources\\bike_assets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1553850986452,
+            "changeTime": 1553850998860,
+            "contentHash": "148996138b4ca7c8f215ca9924ad0ae914636200"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\aura\\pageTemplate_2_7_3",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\aura\\pageTemplate_2_7_3",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1553850980768,
+            "changeTime": 1553850980991,
+            "contentHash": "6195aa8dbdc694a8b5f229980a62359d2617c787"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\accountMap",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\accountMap",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1553850981817,
+            "changeTime": 1553850984372,
+            "contentHash": "9fdfe9b952b6c1af69435656ca398c5e19b245a0"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\bikeCard",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\bikeCard",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1553850981948,
+            "changeTime": 1553850984699,
+            "contentHash": "52a4a44b19c11bddc02ed7d9a6dbe1c61c3255a5"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\data",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\data",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1553850982044,
+            "changeTime": 1553850985065,
+            "contentHash": "48691914d443ab2178991ed142f6383fa1f8934b"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\detail",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\detail",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1553850982256,
+            "changeTime": 1553850985325,
+            "contentHash": "de8e12a919c60ac6db0abb30857b80537e253b53"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\inlineMessage",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\inlineMessage",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1553850982395,
+            "changeTime": 1553850985851,
+            "contentHash": "7331a089061b6376f394b933ce42f620155b2b21"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\ldsUtils",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\ldsUtils",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1553850982462,
+            "changeTime": 1553850986432,
+            "contentHash": "28fd8247ac350c1b750d7a34ab486d87ae7ec460"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\list",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\list",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1553850982587,
+            "changeTime": 1553850986724,
+            "contentHash": "c0b899ed321b29a6b62e9385c349a21ca5b6dfe6"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\orderBuilder",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\orderBuilder",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1553850982715,
+            "changeTime": 1553850987137,
+            "contentHash": "b724d9d8609174d4638fa01e6b80c555221bc3f7"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\orderItemTile",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\orderItemTile",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1553850982855,
+            "changeTime": 1553850987820,
+            "contentHash": "0a1246531c52caa3dde9816c031afb0198460e13"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\paginator",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\paginator",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1553850983031,
+            "changeTime": 1553850988175,
+            "contentHash": "c1cd00c92150b77a70c3d8e2c103c92d2c4ef8de"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\placeholder",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\placeholder",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1553850983187,
+            "changeTime": 1553850988981,
+            "contentHash": "93fc8141b926e8d7971e81f36b99a54e1e966905"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\placeholder\\__tests__",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\placeholder\\__tests__",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1553850983204,
+            "changeTime": 1553850989852,
+            "contentHash": "e2c460c3b124908f798ad10f88198511fb1e235b"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\productCard",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\productCard",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1553850983346,
+            "changeTime": 1553850989976,
+            "contentHash": "7731bc7c028c3447b546195270972dcf9aad9557"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\productFilter",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\productFilter",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1553850983526,
+            "changeTime": 1553850995114,
+            "contentHash": "1378418257aeabbfc487a8709404e6287710f32f"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\productFilter\\__tests__",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\productFilter\\__tests__",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1553850983566,
+            "changeTime": 1553850995356,
+            "contentHash": "b5e9fdf32597a75cde7ebc059678c4b94fd21c83"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\productListItem",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\productListItem",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1553850983775,
+            "changeTime": 1553850995607,
+            "contentHash": "8ac8d12cb82bf6b31f87ea9ff0a4a6c8a8899366"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\productListItem\\__tests__",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\productListItem\\__tests__",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1553850983797,
+            "changeTime": 1553850995817,
+            "contentHash": "263717700bb89d5d10c4b253384f4671c49c90ec"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\productTile",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\productTile",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1553850983993,
+            "changeTime": 1553850995885,
+            "contentHash": "47ac65123a5fb1cd8f9d88a0644f7b7566739c45"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\productTile\\__tests__",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\productTile\\__tests__",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1553850984011,
+            "changeTime": 1553850996057,
+            "contentHash": "4dcca3833b7c66115d9d4ba3fb5095e1a20c6504"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\productTileList",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\productTileList",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1553850984180,
+            "changeTime": 1553850996129,
+            "contentHash": "be79f4b726ce03afbb3848c1301a653abf78e574"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\productTileList\\__tests__",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\productTileList\\__tests__",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1553850984252,
+            "changeTime": 1553850996318,
+            "contentHash": "78f876eda15632b41b5d0890b55c7a7860c2e887"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\pubsub",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\pubsub",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1553850984371,
+            "changeTime": 1553850996538,
+            "contentHash": "825dc4f64293d1cb0763368d6a5b772afed59972"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\selector",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\selector",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1553850984532,
+            "changeTime": 1553850996655,
+            "contentHash": "17f59d11cc11a0fee006658ac823cc4502b8fc8c"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\similarProducts",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\similarProducts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1553850984721,
+            "changeTime": 1553850996912,
+            "contentHash": "694cef1b45d8f56aac0e79bf5686bbc668e94224"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\tile",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\tile",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1553850984965,
+            "changeTime": 1553850997152,
+            "contentHash": "583ea103d0c901b5630f6250ce2f9f9e8ede268a"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Order_Item__c",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Order_Item__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1553850985126,
+            "changeTime": 1553850997325,
+            "contentHash": "85cbd1fe544ed29725a34cb3e4c8b3f21a859fd6"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Order_Item__c\\fields",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Order_Item__c\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1553850985334,
+            "changeTime": 1553850997409,
+            "contentHash": "4a135cc64e289bfb0248fa4eabb30dd41177b69d"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Order__c",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Order__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1553850985415,
+            "changeTime": 1553850997677,
+            "contentHash": "e375c35e6309efa761f6e4d5116721c598a7c0a8"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Order__c\\fields",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Order__c\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1553850985427,
+            "changeTime": 1553850997739,
+            "contentHash": "412e080707594cba6a960efbbe27e7782f2a1d73"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Product_Family__c",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Product_Family__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1553850985492,
+            "changeTime": 1553850997807,
+            "contentHash": "3602cb034459c276b2bb29e11baeb37d0f3d226d"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Product_Family__c\\fields",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Product_Family__c\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1553850985538,
+            "changeTime": 1553850997877,
+            "contentHash": "b6f18c6629feeb4a752bf6d25e07d8c996a0eaa8"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Product__c",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Product__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1553850986190,
+            "changeTime": 1553850997984,
+            "contentHash": "5060f833b8a4a9ed894cad675522a3ecbde76bb5"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Product__c\\fields",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Product__c\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1553850986156,
+            "changeTime": 1553850998049,
+            "contentHash": "b9f5caf918f5bdda82dcb93b393da926c027cffb"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Product__c\\listViews",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Product__c\\listViews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1553850986224,
+            "changeTime": 1553850998622,
+            "contentHash": "1ccc9a6d53df92ea4133d48d2d0cf705ba300c5c"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\applications\\EBikes.app-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\applications\\EBikes.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 691,
+            "modifiedTime": 1553762685000,
+            "changeTime": 1553850986600,
+            "contentHash": "14a3eff8009e507315d7b5e9e508b24b369dfc13"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\classes\\OrderController.cls",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\classes\\OrderController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 358,
+            "modifiedTime": 1553762685000,
+            "changeTime": 1553850986506,
+            "contentHash": "badf29704f2d84aa72ab7b68ad63bcca47299852"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\classes\\OrderController.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\classes\\OrderController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 198,
+            "modifiedTime": 1553762685000,
+            "changeTime": 1553850986792,
+            "contentHash": "128454b6c1cd779f1f2c3ffb37a7657f802b5204"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\classes\\PagedResult.cls",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\classes\\PagedResult.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 308,
+            "modifiedTime": 1553762685000,
+            "changeTime": 1553850986383,
+            "contentHash": "930c165701b2abb6f7d1750a2c64235e4b2ed4f5"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\classes\\PagedResult.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\classes\\PagedResult.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 194,
+            "modifiedTime": 1553762685000,
+            "changeTime": 1553850986701,
+            "contentHash": "626e77d054f66785aaaa1e6d9f7f9bfa66c02c4f"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\classes\\ProductController.cls",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\classes\\ProductController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2927,
+            "modifiedTime": 1553762685000,
+            "changeTime": 1553850993442,
+            "contentHash": "abc2d713f700b1800c6e8e040904d0d6c25e66ac"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\classes\\ProductController.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\classes\\ProductController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 200,
+            "modifiedTime": 1553762685000,
+            "changeTime": 1553850994190,
+            "contentHash": "89b5062174a527bdc0f9a5a6e7ae9c9577ef4df7"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\classes\\TestOrderController.cls",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\classes\\TestOrderController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 847,
+            "modifiedTime": 1553762685000,
+            "changeTime": 1553850993616,
+            "contentHash": "d6d27a18f670e3d20163d4fbe2debf56940a66fc"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\classes\\TestOrderController.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\classes\\TestOrderController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 202,
+            "modifiedTime": 1553762685000,
+            "changeTime": 1553850994263,
+            "contentHash": "48ac09263c7c6d333a752a70e98acf71044b37f2"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\classes\\TestProductController.cls",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\classes\\TestProductController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1583,
+            "modifiedTime": 1553762685000,
+            "changeTime": 1553850993778,
+            "contentHash": "1bb31f6d4d275c9edc32756402e9af29602bb1ff"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\classes\\TestProductController.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\classes\\TestProductController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 204,
+            "modifiedTime": 1553762685000,
+            "changeTime": 1553850994340,
+            "contentHash": "301ca13b17745ce48fd99a4dfc6d13fd01dedd05"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\contentassets\\logo.asset",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\contentassets\\logo.asset",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 25929,
+            "modifiedTime": 1553762685000,
+            "changeTime": 1553851034669,
+            "contentHash": "9fa5daf25212eb2febbefc198dd57c11fccee960"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\contentassets\\logo.asset-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\contentassets\\logo.asset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 474,
+            "modifiedTime": 1553762685000,
+            "changeTime": 1553851005234,
+            "contentHash": "7fc5c86e666d3e853d80aac0358b5346e0158aca"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\layouts\\Order_Item__c-Order Item Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\layouts\\Order_Item__c-Order Item Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2679,
+            "modifiedTime": 1553762685000,
+            "changeTime": 1553851036528,
+            "contentHash": "71510beedc502d636c282c72c8071ea804796c88"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\layouts\\Order__c-Order Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\layouts\\Order__c-Order Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2331,
+            "modifiedTime": 1553762685000,
+            "changeTime": 1553851036178,
+            "contentHash": "f1bfd0f7a699c5b5f99fb77ddc709e72c81fe340"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\layouts\\Product_Family__c-Product Family Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\layouts\\Product_Family__c-Product Family Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2426,
+            "modifiedTime": 1553762685000,
+            "changeTime": 1553851036573,
+            "contentHash": "32e541c00d65cedcadc78992f5a6a946e9d42bc4"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\layouts\\Product__c-Product Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\layouts\\Product__c-Product Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 3851,
+            "modifiedTime": 1553762685000,
+            "changeTime": 1553851036404,
+            "contentHash": "eb5a4ca1d98e6c90a08b689ce51acdd7385c0b74"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\permissionsets\\ebikes.permissionset-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\permissionsets\\ebikes.permissionset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 6208,
+            "modifiedTime": 1553762685000,
+            "changeTime": 1553851005630,
+            "contentHash": "7a01f845deb8e357356c254adce3005440382445"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\staticresources\\bike_assets\\commuter.png",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\staticresources\\bike_assets\\commuter.png",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 22950,
+            "modifiedTime": 1553762685000,
+            "changeTime": 1553851005543,
+            "contentHash": "1bb42948022788a0831e58c38da64f3a2de3ea81"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\staticresources\\bike_assets\\enthusiast.png",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\staticresources\\bike_assets\\enthusiast.png",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 23256,
+            "modifiedTime": 1553762685000,
+            "changeTime": 1553851005585,
+            "contentHash": "80151a30921ed4d1445abcef2566e3df4906348b"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\staticresources\\bike_assets\\logo.svg",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\staticresources\\bike_assets\\logo.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2623,
+            "modifiedTime": 1553762685000,
+            "changeTime": 1553851005431,
+            "contentHash": "87046278f9348aa81c7461b782632926e0ce2509"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\staticresources\\bike_assets\\racer.png",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\staticresources\\bike_assets\\racer.png",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 19491,
+            "modifiedTime": 1553762685000,
+            "changeTime": 1553851005484,
+            "contentHash": "5e5565ee5e3e0fc769015aa4e2325813a40d46c7"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\staticresources\\bike_assets.resource-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\staticresources\\bike_assets.resource-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 213,
+            "modifiedTime": 1553762685000,
+            "changeTime": 1553851005750,
+            "contentHash": "e4d9e546fa351b99c0881ee19e982603be404675"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\aura\\pageTemplate_2_7_3\\pageTemplate_2_7_3.cmp",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\aura\\pageTemplate_2_7_3\\pageTemplate_2_7_3.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 953,
+            "modifiedTime": 1553762685000,
+            "changeTime": 1553851014102,
+            "contentHash": "cc8e5ef5dedf740d6468a2d2c9c4e58422630134"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\aura\\pageTemplate_2_7_3\\pageTemplate_2_7_3.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\aura\\pageTemplate_2_7_3\\pageTemplate_2_7_3.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 255,
+            "modifiedTime": 1553762685000,
+            "changeTime": 1553851014255,
+            "contentHash": "edfb178f9eb2684121d74bf91081468d66d3a197"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\aura\\pageTemplate_2_7_3\\pageTemplate_2_7_3.css",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\aura\\pageTemplate_2_7_3\\pageTemplate_2_7_3.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 42,
+            "modifiedTime": 1553762685000,
+            "changeTime": 1553851014142,
+            "contentHash": "ff1ce9ec60837f73a5550815a2d0e1f5c1657650"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\aura\\pageTemplate_2_7_3\\pageTemplate_2_7_3.design",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\aura\\pageTemplate_2_7_3\\pageTemplate_2_7_3.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 344,
+            "modifiedTime": 1553762685000,
+            "changeTime": 1553851014211,
+            "contentHash": "23bbcec1d907e5f63d826e373ea1de1d0bbef682"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\aura\\pageTemplate_2_7_3\\pageTemplate_2_7_3.svg",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\aura\\pageTemplate_2_7_3\\pageTemplate_2_7_3.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 667,
+            "modifiedTime": 1553762685000,
+            "changeTime": 1553851014173,
+            "contentHash": "fe7fd10b3d5c910463a4cbaaa998b5e75bd6ca8a"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\flexipages\\Account_Record_Page.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\flexipages\\Account_Record_Page.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 6007,
+            "modifiedTime": 1553830401000,
+            "changeTime": 1553850994574,
+            "contentHash": "d66de928b655ee59fc267fa76b359c1485d181fb"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\flexipages\\Order_Record_Page.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\flexipages\\Order_Record_Page.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 3750,
+            "modifiedTime": 1553762685000,
+            "changeTime": 1553850994529,
+            "contentHash": "b9459af9651efceb1aef448ebb614932e5ad0d38"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\flexipages\\Product_Explorer.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\flexipages\\Product_Explorer.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 945,
+            "modifiedTime": 1553762685000,
+            "changeTime": 1553850994491,
+            "contentHash": "ca983645af9698d055d7ee5319973b2d7bbceaf0"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\flexipages\\Product_Record_Page.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\flexipages\\Product_Record_Page.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 3470,
+            "modifiedTime": 1553762685000,
+            "changeTime": 1553850994978,
+            "contentHash": "ce3fcc94653e04b49aed6c365e846b92b4fc926e"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\accountMap\\accountMap.html",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\accountMap\\accountMap.html",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 719,
+            "modifiedTime": 1553762685000,
+            "changeTime": 1553851035141,
+            "contentHash": "bb300001bbdd75bafe163d91dab43212c6747b33"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\accountMap\\accountMap.js",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\accountMap\\accountMap.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1799,
+            "modifiedTime": 1553762685000,
+            "changeTime": 1553851035069,
+            "contentHash": "f59cb012dc50304df835802fef038c15ee4ea70e"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\accountMap\\accountMap.js-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\accountMap\\accountMap.js-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 502,
+            "modifiedTime": 1553762685000,
+            "changeTime": 1553851035609,
+            "contentHash": "a1c69b9b9ea9afba8a04a12f69a864606fb52b5a"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\bikeCard\\bikeCard.html",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\bikeCard\\bikeCard.html",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 320,
+            "modifiedTime": 1553825353000,
+            "changeTime": 1553851034987,
+            "contentHash": "7ee07f2deb8692f278e09a5fab1176c00aa3f548"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\bikeCard\\bikeCard.js",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\bikeCard\\bikeCard.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 329,
+            "modifiedTime": 1553825367000,
+            "changeTime": 1553851034729,
+            "contentHash": "9d911dd2e49424428ac7ad7110a45913384adc8b"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\bikeCard\\bikeCard.js-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\bikeCard\\bikeCard.js-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 449,
+            "modifiedTime": 1553825385000,
+            "changeTime": 1553851035333,
+            "contentHash": "32a9caf4b083f19e8da42a9f3946715ecc8ff97a"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\data\\data.js",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\data\\data.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 8845,
+            "modifiedTime": 1553832086000,
+            "changeTime": 1553851034499,
+            "contentHash": "9c548e780dbae73a82903e46a26ad7f5766177a9"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\data\\data.js-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\data\\data.js-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 209,
+            "modifiedTime": 1553832086000,
+            "changeTime": 1553851034848,
+            "contentHash": "cd5aed137b091f8314d531bfe8a980b54ab2278f"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\detail\\detail.css",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\detail\\detail.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 70,
+            "modifiedTime": 1553844622000,
+            "changeTime": 1553850993066,
+            "contentHash": "3c5f4eff4abb19ae4cd761e0d3aa080b87aab066"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\detail\\detail.html",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\detail\\detail.html",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 901,
+            "modifiedTime": 1553844784000,
+            "changeTime": 1553850993105,
+            "contentHash": "37f4adb0383cfaa643333b3b7c6226609b75231c"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\detail\\detail.js",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\detail\\detail.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 643,
+            "modifiedTime": 1553832087000,
+            "changeTime": 1553850993032,
+            "contentHash": "c3accdb7e3d42f696e9df260a628c6a6e1af864e"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\detail\\detail.js-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\detail\\detail.js-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 209,
+            "modifiedTime": 1553832087000,
+            "changeTime": 1553850993518,
+            "contentHash": "cd5aed137b091f8314d531bfe8a980b54ab2278f"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\inlineMessage\\inlineMessage.css",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\inlineMessage\\inlineMessage.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 43,
+            "modifiedTime": 1553762685000,
+            "changeTime": 1553850993997,
+            "contentHash": "ba8345682616297092ed2de5e140f9b10ce7b405"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\inlineMessage\\inlineMessage.html",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\inlineMessage\\inlineMessage.html",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 856,
+            "modifiedTime": 1553762685000,
+            "changeTime": 1553850994121,
+            "contentHash": "f79d6dc95b9cda8b8365db01f7eff49e777bbf05"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\inlineMessage\\inlineMessage.js",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\inlineMessage\\inlineMessage.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 964,
+            "modifiedTime": 1553762685000,
+            "changeTime": 1553850993884,
+            "contentHash": "cbaaba08969a6e58f8630363e0a09a2344c8bf0a"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\inlineMessage\\inlineMessage.js-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\inlineMessage\\inlineMessage.js-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 212,
+            "modifiedTime": 1553762685000,
+            "changeTime": 1553850994380,
+            "contentHash": "1f38deb0afab18d6e0371167d9d41c3d7ce7205f"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\ldsUtils\\ldsUtils.js",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\ldsUtils\\ldsUtils.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1288,
+            "modifiedTime": 1553762685000,
+            "changeTime": 1553850993153,
+            "contentHash": "02d91ebcba7c3841f50b44c5f00eab132cefb177"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\ldsUtils\\ldsUtils.js-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\ldsUtils\\ldsUtils.js-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 227,
+            "modifiedTime": 1553762685000,
+            "changeTime": 1553850993815,
+            "contentHash": "abf24508cfbe4cf82347bf421ef4fd115bb07031"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\list\\list.css",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\list\\list.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 79,
+            "modifiedTime": 1553832087000,
+            "changeTime": 1553850992954,
+            "contentHash": "388e15b260546598e02ae111e439d2c61f341507"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\list\\list.html",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\list\\list.html",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 299,
+            "modifiedTime": 1553832087000,
+            "changeTime": 1553850992992,
+            "contentHash": "f6566646d9790382496635316b735b9ee4b77b66"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\list\\list.js",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\list\\list.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 441,
+            "modifiedTime": 1553845987000,
+            "changeTime": 1553850992919,
+            "contentHash": "2735fbb05df5a58f8283fd2776038343e399c6ca"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\list\\list.js-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\list\\list.js-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 209,
+            "modifiedTime": 1553832087000,
+            "changeTime": 1553850993206,
+            "contentHash": "cd5aed137b091f8314d531bfe8a980b54ab2278f"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\orderBuilder\\orderBuilder.css",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\orderBuilder\\orderBuilder.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 565,
+            "modifiedTime": 1553762685000,
+            "changeTime": 1553850993851,
+            "contentHash": "173f3590d6421987bf772048c39c1436bb8da924"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\orderBuilder\\orderBuilder.html",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\orderBuilder\\orderBuilder.html",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1681,
+            "modifiedTime": 1553762685000,
+            "changeTime": 1553850993923,
+            "contentHash": "2cedc152b8b3badfae21c7c9921dd574af054b4d"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\orderBuilder\\orderBuilder.js",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\orderBuilder\\orderBuilder.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 7479,
+            "modifiedTime": 1553762685000,
+            "changeTime": 1553850993700,
+            "contentHash": "5e4c4bd041e13382557134ce58b9f2807bcb8326"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\orderBuilder\\orderBuilder.js-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\orderBuilder\\orderBuilder.js-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 597,
+            "modifiedTime": 1553762685000,
+            "changeTime": 1553850994299,
+            "contentHash": "04d9aefde338876fa57fa77ec5bc2aafbc0cb748"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\orderItemTile\\orderItemTile.css",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\orderItemTile\\orderItemTile.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 654,
+            "modifiedTime": 1553762685000,
+            "changeTime": 1553850994029,
+            "contentHash": "c3d400db6bca975932a7d850febfe747b05a2b1f"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\orderItemTile\\orderItemTile.html",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\orderItemTile\\orderItemTile.html",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2714,
+            "modifiedTime": 1553762685000,
+            "changeTime": 1553850994156,
+            "contentHash": "1bc81bbf4077b4bca87d53e535a3782fee69005d"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\orderItemTile\\orderItemTile.js",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\orderItemTile\\orderItemTile.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1782,
+            "modifiedTime": 1553762685000,
+            "changeTime": 1553850993963,
+            "contentHash": "307c4a05d07df82aba5c6701b3bda8b31c61e270"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\orderItemTile\\orderItemTile.js-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\orderItemTile\\orderItemTile.js-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 214,
+            "modifiedTime": 1553762685000,
+            "changeTime": 1553850994413,
+            "contentHash": "9a0d355b959fb4fa929cc74ff49ed855d8c47e34"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\paginator\\paginator.css",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\paginator\\paginator.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1553762685000,
+            "changeTime": 1553850993294,
+            "contentHash": "1aef68e9e338ad0d6f858ca09b66a991a311f168"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\paginator\\paginator.html",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\paginator\\paginator.html",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 979,
+            "modifiedTime": 1553762685000,
+            "changeTime": 1553850993346,
+            "contentHash": "f716c28f582761c6360fcd6ba078072892d8299a"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\paginator\\paginator.js",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\paginator\\paginator.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 847,
+            "modifiedTime": 1553762685000,
+            "changeTime": 1553850993252,
+            "contentHash": "fd609424f2191f2af8423ea65f6dac46da28ac32"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\paginator\\paginator.js-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\paginator\\paginator.js-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 212,
+            "modifiedTime": 1553762685000,
+            "changeTime": 1553850994066,
+            "contentHash": "1f38deb0afab18d6e0371167d9d41c3d7ce7205f"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\placeholder\\placeholder.css",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\placeholder\\placeholder.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 95,
+            "modifiedTime": 1553762685000,
+            "changeTime": 1553850993662,
+            "contentHash": "c4b5823a64208006b96c993452f0ecc43572a961"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\placeholder\\placeholder.html",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\placeholder\\placeholder.html",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 193,
+            "modifiedTime": 1553762685000,
+            "changeTime": 1553850993742,
+            "contentHash": "3f9db0b3c3f7c2c3e71fd0a898674636a93937ac"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\placeholder\\placeholder.js",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\placeholder\\placeholder.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 320,
+            "modifiedTime": 1553762685000,
+            "changeTime": 1553850993565,
+            "contentHash": "13e49f5d41506612f75823958fa9fc6ddf1f818c"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\placeholder\\placeholder.js-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\placeholder\\placeholder.js-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 212,
+            "modifiedTime": 1553762685000,
+            "changeTime": 1553850994229,
+            "contentHash": "1f38deb0afab18d6e0371167d9d41c3d7ce7205f"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\productCard\\productCard.css",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\productCard\\productCard.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 376,
+            "modifiedTime": 1553762685000,
+            "changeTime": 1553851008231,
+            "contentHash": "d817f23f425da6e6c1f20831c31098e4aee32709"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\productCard\\productCard.html",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\productCard\\productCard.html",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 3037,
+            "modifiedTime": 1553762685000,
+            "changeTime": 1553851008282,
+            "contentHash": "3a9581f6ba3eebde6233468987f11c33b84646b1"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\productCard\\productCard.js",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\productCard\\productCard.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2314,
+            "modifiedTime": 1553762685000,
+            "changeTime": 1553851008190,
+            "contentHash": "bce935574e64aab5d353bc6a57c31e24873606af"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\productCard\\productCard.js-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\productCard\\productCard.js-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 599,
+            "modifiedTime": 1553762685000,
+            "changeTime": 1553851008319,
+            "contentHash": "37c54ee51d2da639d333d9fd4837aa23169e8a99"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\productFilter\\productFilter.css",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\productFilter\\productFilter.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 114,
+            "modifiedTime": 1553762685000,
+            "changeTime": 1553851035517,
+            "contentHash": "27d246de0b01d789d04c1c7e27acc4023ad32607"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\productFilter\\productFilter.html",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\productFilter\\productFilter.html",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 3815,
+            "modifiedTime": 1553762685000,
+            "changeTime": 1553851035556,
+            "contentHash": "cbedecf86b19f66c293b44ed0eba94a84fb79919"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\productFilter\\productFilter.js",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\productFilter\\productFilter.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 3202,
+            "modifiedTime": 1553762685000,
+            "changeTime": 1553851035475,
+            "contentHash": "07ea8dd59358dbbcaac24caa7ed2d2a8aced6bec"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\productFilter\\productFilter.js-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\productFilter\\productFilter.js-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 335,
+            "modifiedTime": 1553762685000,
+            "changeTime": 1553851036141,
+            "contentHash": "4ee55f0b9ccac82464dda44d4062000724fdf1c5"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\productListItem\\productListItem.css",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\productListItem\\productListItem.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 89,
+            "modifiedTime": 1553762685000,
+            "changeTime": 1553851035803,
+            "contentHash": "a93ad2c673b83fac02f6fe70681f225643239d2b"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\productListItem\\productListItem.html",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\productListItem\\productListItem.html",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1055,
+            "modifiedTime": 1553762685000,
+            "changeTime": 1553851035965,
+            "contentHash": "ef56c7e30850303495529419a2a96e8d58cef222"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\productListItem\\productListItem.js",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\productListItem\\productListItem.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 811,
+            "modifiedTime": 1553762685000,
+            "changeTime": 1553851035659,
+            "contentHash": "0218a6a92692997eeba7ad89cb44d6cd4db106b3"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\productListItem\\productListItem.js-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\productListItem\\productListItem.js-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 212,
+            "modifiedTime": 1553762685000,
+            "changeTime": 1553851036276,
+            "contentHash": "1f38deb0afab18d6e0371167d9d41c3d7ce7205f"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\productTile\\productTile.css",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\productTile\\productTile.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 289,
+            "modifiedTime": 1553762685000,
+            "changeTime": 1553851035224,
+            "contentHash": "d2ef27551cfe09b94cacb31d0b53eef0633c3a36"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\productTile\\productTile.html",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\productTile\\productTile.html",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 990,
+            "modifiedTime": 1553762685000,
+            "changeTime": 1553851035269,
+            "contentHash": "853f3ad1b6d271e39117dac0c084c9521188c4a4"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\productTile\\productTile.js",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\productTile\\productTile.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1052,
+            "modifiedTime": 1553762685000,
+            "changeTime": 1553851035179,
+            "contentHash": "e3f7bcbeb8f20cae5afd1254524c5d29a1cc1eb1"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\productTile\\productTile.js-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\productTile\\productTile.js-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 211,
+            "modifiedTime": 1553762685000,
+            "changeTime": 1553851035853,
+            "contentHash": "fee181fa24e8f768ec3f0b29c997a819bbc86434"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\productTileList\\productTileList.css",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\productTileList\\productTileList.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 292,
+            "modifiedTime": 1553762685000,
+            "changeTime": 1553851035888,
+            "contentHash": "ed3804107f91cd0a953e9a55e12ac86b64f3eb90"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\productTileList\\productTileList.html",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\productTileList\\productTileList.html",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1877,
+            "modifiedTime": 1553762685000,
+            "changeTime": 1553851036004,
+            "contentHash": "9de2e1ebec162b83053a7f13935212274e4ebf9a"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\productTileList\\productTileList.js",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\productTileList\\productTileList.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2279,
+            "modifiedTime": 1553762685000,
+            "changeTime": 1553851035699,
+            "contentHash": "6d3ea0d077d832b5de39d022c9561a13504d726e"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\productTileList\\productTileList.js-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\productTileList\\productTileList.js-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 793,
+            "modifiedTime": 1553762685000,
+            "changeTime": 1553851036320,
+            "contentHash": "2e9f991d0ed7bcaa4fbcb6557ad2517c9f3a8f70"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\pubsub\\pubsub.js",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\pubsub\\pubsub.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 3192,
+            "modifiedTime": 1553762685000,
+            "changeTime": 1553851034631,
+            "contentHash": "738e5ee0f96d4924092ef3ff0f9d08ae88e91fd2"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\pubsub\\pubsub.js-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\pubsub\\pubsub.js-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 214,
+            "modifiedTime": 1553762685000,
+            "changeTime": 1553851035108,
+            "contentHash": "9a0d355b959fb4fa929cc74ff49ed855d8c47e34"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\selector\\selector.css",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\selector\\selector.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 551,
+            "modifiedTime": 1553832087000,
+            "changeTime": 1553851034894,
+            "contentHash": "0a15ac77e3e200cd054a1a8e167e26da469a4796"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\selector\\selector.html",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\selector\\selector.html",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 437,
+            "modifiedTime": 1553832087000,
+            "changeTime": 1553851035029,
+            "contentHash": "232fa7b87589f8de69b921a0d2d25bf4f6680814"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\selector\\selector.js",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\selector\\selector.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 227,
+            "modifiedTime": 1553845984000,
+            "changeTime": 1553851034803,
+            "contentHash": "b03a63a163ea675d0cf611dd674cd6b030a0215e"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\selector\\selector.js-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\selector\\selector.js-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 373,
+            "modifiedTime": 1553832087000,
+            "changeTime": 1553851035401,
+            "contentHash": "44a0aafe74ea60316ec11f2adf771ded072c95ab"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\similarProducts\\similarProducts.css",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\similarProducts\\similarProducts.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 90,
+            "modifiedTime": 1553762685000,
+            "changeTime": 1553851035924,
+            "contentHash": "0b4df46e178c6f6b81f96e99bbded81076929991"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\similarProducts\\similarProducts.html",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\similarProducts\\similarProducts.html",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1218,
+            "modifiedTime": 1553762685000,
+            "changeTime": 1553851036044,
+            "contentHash": "d3c769c6add08e8c56836c9b20d88067011f96d9"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\similarProducts\\similarProducts.js",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\similarProducts\\similarProducts.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1144,
+            "modifiedTime": 1553762685000,
+            "changeTime": 1553851035738,
+            "contentHash": "e8e2fb4dc86ff20aeb04ed079f4abfd71613678f"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\similarProducts\\similarProducts.js-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\similarProducts\\similarProducts.js-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 508,
+            "modifiedTime": 1553762685000,
+            "changeTime": 1553851036365,
+            "contentHash": "4525c70474728974e27a6331689ae27732f6a541"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\tile\\tile.css",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\tile\\tile.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 437,
+            "modifiedTime": 1553832087000,
+            "changeTime": 1553851034573,
+            "contentHash": "4dac94164b9fb3b266d95fcd3cc0d7032ada8e44"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\tile\\tile.html",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\tile\\tile.html",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 257,
+            "modifiedTime": 1553832087000,
+            "changeTime": 1553851034602,
+            "contentHash": "ebeb21c7735a0b63ac5e1a320f6e9cc59369feaf"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\tile\\tile.js",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\tile\\tile.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 378,
+            "modifiedTime": 1553832087000,
+            "changeTime": 1553851034538,
+            "contentHash": "5eb1aac83b8dfad90724829057859270b1b2b67a"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\tile\\tile.js-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc\\tile\\tile.js-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 209,
+            "modifiedTime": 1553832087000,
+            "changeTime": 1553851034943,
+            "contentHash": "cd5aed137b091f8314d531bfe8a980b54ab2278f"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Order_Item__c\\fields\\Order__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Order_Item__c\\fields\\Order__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 621,
+            "modifiedTime": 1553762685000,
+            "changeTime": 1553851008638,
+            "contentHash": "ea83a5dd159ecf666219fd8c25e8171ae96e0483"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Order_Item__c\\fields\\Price__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Order_Item__c\\fields\\Price__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 369,
+            "modifiedTime": 1553762685000,
+            "changeTime": 1553851008672,
+            "contentHash": "a7b96252d22e56690c5cf455c6d301f54231257e"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Order_Item__c\\fields\\Product__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Order_Item__c\\fields\\Product__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 522,
+            "modifiedTime": 1553762685000,
+            "changeTime": 1553851008999,
+            "contentHash": "8f1c342917218002f6b8f0b338fb63b0d1703dca"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Order_Item__c\\fields\\Qty_L__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Order_Item__c\\fields\\Qty_L__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 427,
+            "modifiedTime": 1553762685000,
+            "changeTime": 1553851008706,
+            "contentHash": "6977689f75b874bf7a262e94e1aa94de5137579a"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Order_Item__c\\fields\\Qty_M__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Order_Item__c\\fields\\Qty_M__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 427,
+            "modifiedTime": 1553762685000,
+            "changeTime": 1553851008743,
+            "contentHash": "a5727152201c790fd6b37bd9e9f0fba8e50ff8fd"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Order_Item__c\\fields\\Qty_S__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Order_Item__c\\fields\\Qty_S__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 427,
+            "modifiedTime": 1553762685000,
+            "changeTime": 1553851008786,
+            "contentHash": "daec5002ea009943fe4f4b046dbca55d57fb99e0"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Order_Item__c\\Order_Item__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Order_Item__c\\Order_Item__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2218,
+            "modifiedTime": 1553762685000,
+            "changeTime": 1553851008524,
+            "contentHash": "e136528ab7c403617709e6eab96b18e528b3cfa9"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Order__c\\fields\\Account__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Order__c\\fields\\Account__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 499,
+            "modifiedTime": 1553827084000,
+            "changeTime": 1553851036491,
+            "contentHash": "2b5d8e6cad72ed4392d0ac143233d986af4f5164"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Order__c\\Order__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Order__c\\Order__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2356,
+            "modifiedTime": 1553762685000,
+            "changeTime": 1553851036102,
+            "contentHash": "e665f14f0413adeb25d7bb766387dfbcf03b9c0c"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Product_Family__c\\fields\\Category__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Product_Family__c\\fields\\Category__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1007,
+            "modifiedTime": 1553762685000,
+            "changeTime": 1553851009357,
+            "contentHash": "769e25e5d988753245e22021954067898b266051"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Product_Family__c\\fields\\Description__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Product_Family__c\\fields\\Description__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 329,
+            "modifiedTime": 1553762685000,
+            "changeTime": 1553851009475,
+            "contentHash": "f40f0ccd34f0afee88738b347e81e77a862303b4"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Product_Family__c\\Product_Family__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Product_Family__c\\Product_Family__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2146,
+            "modifiedTime": 1553762685000,
+            "changeTime": 1553851009393,
+            "contentHash": "aafcf2dac708e1450f735bec42c336e367018d10"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Product__c\\fields\\Battery__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Product__c\\fields\\Battery__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 371,
+            "modifiedTime": 1553762685000,
+            "changeTime": 1553851008568,
+            "contentHash": "6342bd712ef00cb4afd35df48fad48a99469cd61"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Product__c\\fields\\Category__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Product__c\\fields\\Category__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 838,
+            "modifiedTime": 1553762685000,
+            "changeTime": 1553851008826,
+            "contentHash": "e5471abb1bf23a491fa5f23d8e1158071febf2be"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Product__c\\fields\\Charger__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Product__c\\fields\\Charger__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 371,
+            "modifiedTime": 1553762685000,
+            "changeTime": 1553851008603,
+            "contentHash": "41c9da0184da2d721f05fcc9ae773dbc68eadee8"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Product__c\\fields\\Description__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Product__c\\fields\\Description__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 364,
+            "modifiedTime": 1553762685000,
+            "changeTime": 1553851009093,
+            "contentHash": "87baec3d7bea7fbd312de178a5848e84db0f5e9d"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Product__c\\fields\\Fork__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Product__c\\fields\\Fork__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 365,
+            "modifiedTime": 1553762685000,
+            "changeTime": 1553851005822,
+            "contentHash": "97c75c38e510f547d8a6fcba293dd7575a085480"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Product__c\\fields\\Front_Brakes__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Product__c\\fields\\Front_Brakes__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 381,
+            "modifiedTime": 1553762685000,
+            "changeTime": 1553851009242,
+            "contentHash": "bf794e56fe856eda268408e1ded37db33f504e7d"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Product__c\\fields\\Level__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Product__c\\fields\\Level__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1003,
+            "modifiedTime": 1553762685000,
+            "changeTime": 1553851005936,
+            "contentHash": "56e326490e54ce0ddf6fa0eb4ef38c617a6f56b7"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Product__c\\fields\\Material__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Product__c\\fields\\Material__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 834,
+            "modifiedTime": 1553762685000,
+            "changeTime": 1553851008863,
+            "contentHash": "cefc86322c5099c3c563ddc73e335f09a898a571"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Product__c\\fields\\Motor__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Product__c\\fields\\Motor__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 367,
+            "modifiedTime": 1553762685000,
+            "changeTime": 1553851008414,
+            "contentHash": "ccefeb34f9ae19cf04e8df2e13ad79d0bafd9697"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Product__c\\fields\\MSRP__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Product__c\\fields\\MSRP__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 367,
+            "modifiedTime": 1553762685000,
+            "changeTime": 1553851005887,
+            "contentHash": "a9eb9c28e76396bacaaf9af7b5c0814ac648d3bf"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Product__c\\fields\\Picture_URL__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Product__c\\fields\\Picture_URL__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 324,
+            "modifiedTime": 1553762685000,
+            "changeTime": 1553851009150,
+            "contentHash": "dd6c9a83614705b6dc25554bd502e9aaab3fbca1"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Product__c\\fields\\Product_Family__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Product__c\\fields\\Product_Family__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 537,
+            "modifiedTime": 1553762685000,
+            "changeTime": 1553851009278,
+            "contentHash": "a05535e3d97348395703f95fa182a637a5a13f1b"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Product__c\\fields\\Rear_Brakes__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Product__c\\fields\\Rear_Brakes__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 379,
+            "modifiedTime": 1553762685000,
+            "changeTime": 1553851009190,
+            "contentHash": "57e3161b63584f702b05683ac3ae2823cefe1407"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Product__c\\listViews\\ProductList.listView-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Product__c\\listViews\\ProductList.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 504,
+            "modifiedTime": 1553762685000,
+            "changeTime": 1553851009317,
+            "contentHash": "1e36f59dd1b9eaf76d4904e107b8558f1eae7b19"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Product__c\\Product__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\objects\\Product__c\\Product__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2384,
+            "modifiedTime": 1553762685000,
+            "changeTime": 1553851005690,
+            "contentHash": "1e57b63f94dc366d008df15e174ac47896a06585"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\tabs\\Order__c.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\tabs\\Order__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 226,
+            "modifiedTime": 1553762685000,
+            "changeTime": 1553851005010,
+            "contentHash": "bd4ad56b67cd25e5db7b7606d801a5ec04c9269d"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\tabs\\Product_Explorer.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\tabs\\Product_Explorer.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 332,
+            "modifiedTime": 1553762685000,
+            "changeTime": 1553851005316,
+            "contentHash": "de59e5493d2ee709e5ea162411ffc6f1260e1695"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\tabs\\Product_Family__c.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\tabs\\Product_Family__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 227,
+            "modifiedTime": 1553762685000,
+            "changeTime": 1553851005372,
+            "contentHash": "1e2b8c95870f8903c9b7dba9cad64fa9662c6ead"
+        }
+    ],
+    [
+        "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\tabs\\Product__c.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\tabs\\Product__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 237,
+            "modifiedTime": 1553762685000,
+            "changeTime": 1553851005136,
+            "contentHash": "7d7ee893296403df734bba9647f9045b7b926753"
+        }
+    ]
+]

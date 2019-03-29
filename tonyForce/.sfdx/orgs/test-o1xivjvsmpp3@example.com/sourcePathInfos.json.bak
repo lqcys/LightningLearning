@@ -1,0 +1,92 @@
+[
+    [
+        "d:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "d:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1553847165668,
+            "changeTime": 1553847165784,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "d:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "d:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1553847165668,
+            "changeTime": 1553847166649,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "d:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default",
+        {
+            "state": "n",
+            "sourcePath": "d:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1553847165670,
+            "changeTime": 1553847166765,
+            "contentHash": "7334b1e8716ee057f8863fce77d3933d5bd9d984",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "d:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "d:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1553847165669,
+            "changeTime": 1553847166819,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "d:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc",
+        {
+            "state": "n",
+            "sourcePath": "d:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce\\force-app\\main\\default\\lwc",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1553847183403,
+            "changeTime": 1553847183403,
+            "contentHash": "a973ac1b5be0e216b2a2db1b82ae5ba97f4086f4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "d:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce",
+        {
+            "state": "n",
+            "sourcePath": "d:\\Dropbox\\Sublime Workspace\\LightningLearning\\tonyForce",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1553847176497,
+            "changeTime": 1553847176497,
+            "contentHash": "829e604d4e7d5aae25f04d899b0bc5eccc598817",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
